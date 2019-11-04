@@ -1,1 +1,1 @@
-var playlist = { artist : songTitle }le
+var playlist = { artist : songTitle };
